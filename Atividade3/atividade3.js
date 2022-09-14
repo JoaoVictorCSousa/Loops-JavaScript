@@ -10,7 +10,7 @@ while(idade!=-99){
         idade_21++
     }
 
-    if(idade>50){
+    if(idade>50 && idade!=-99){
         idade_50++
 }
 }
